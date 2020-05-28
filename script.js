@@ -1,6 +1,6 @@
 
 
-alert ('Selamat Datang Di Game Ini😎');
+alert ('Selamat Datang Di Game Ini😎')
 
 function getPilihanComputer(){
 			const comp = Math.random();
