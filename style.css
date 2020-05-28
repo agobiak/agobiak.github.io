@@ -80,7 +80,7 @@ h1 {
 }
 
 .area-komputer {
-    width: 450px;
+    width: 600px;
     height: 250px;
     margin: 5px auto;
     background-color: lightblue;
@@ -93,7 +93,7 @@ h1 {
 }
 
 .area-player {
-    width: 450px;
+    width: 600px;
     height: 250px;
     margin: 5px auto;
     background-color: black;
@@ -133,8 +133,8 @@ li {
 }
 
 img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     display: block;
     margin: auto;
     border-radius: 50%;
