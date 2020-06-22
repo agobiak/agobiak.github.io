@@ -1,0 +1,16 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.jumbotron {
+  color: white;
+  background-image: url(ik3.jpg);
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkkit-filter: saturate;
+  filter: saturate(200%);
+}
