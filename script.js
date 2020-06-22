@@ -21,7 +21,7 @@ const hitung = setInterval(function () {
     hari +
     " days " +
     jam +
-    " times " +
+    " hours " +
     menit +
     " minutes " +
     detik +
